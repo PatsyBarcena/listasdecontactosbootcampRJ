@@ -4,6 +4,15 @@ Una aplicación profesional de gestión de contactos desarrollada con **React.js
 
 ---
 
+ ⚛️ React
+- 🎯 React Router DOM
+- 🌍 Context API
+- 🧪 HTML
+- 🎨 CSS
+- 🧠 JavaScript
+- 🧩 TypeScript *(estructura del proyecto y configuraciones por defecto)*
+
+
 ## 👀 Vista previa
 
 ![Vista previa 1](https://github.com/PatsyBarcena/listasdecontactosbootcampRJ/blob/main/listadecontactosvistaprevia1.png)
@@ -11,19 +20,6 @@ Una aplicación profesional de gestión de contactos desarrollada con **React.js
 
 🔗 [Ver Deploy en Netlify](https://listasdecontactosbootcamprj.netlify.app/)  
 🔗 [Ver Deploy en Vercel](https://listadecontactosbootcamp-lskt.vercel.app/)
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- 🧩 **HTML5**
-- 🎨 **CSS3**
-- 🧠 **JavaScript (ES6+)**
-- ⚛️ **React.js**
-- 🌐 **React Router DOM**
-- 🧵 **Context API**
-
----
 
 ## ✨ Funcionalidades
 
@@ -34,33 +30,24 @@ Esta aplicación permite a los usuarios:
 - ✏️ **Actualizar** la información de cualquier contacto
 - 🗑️ **Eliminar** contactos con opción de confirmación (modal)
 
-Opcionalmente, puedes integrar un **Modal de confirmación** antes de eliminar un contacto.
+## 🧠 Estado global con Context API
 
----
-
-## 🧠 Lógica con Context API
-
-Toda la lógica de estado y gestión de datos está implementada usando **Context API**, permitiendo compartir información entre componentes sin necesidad de prop drilling.
+El estado de los contactos y las funciones que interactúan con la API se gestionan desde un Contexto central, lo que evita prop drilling y mejora la organización del código. Esta estructura facilita escalar el proyecto y compartir datos entre componentes de forma eficiente.
 
 ## 🚀 Cómo iniciar el proyecto
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/PatsyBarcena/listasdecontactosbootcampRJ.git
-
-    Entra a la carpeta del proyecto:
-
-cd listasdecontactosbootcampRJ
-
-Instala las dependencias:
-
+```bash
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
 npm install
+npm run dev
 
-Inicia el servidor de desarrollo:
+✨ Próximas mejoras (opcional)
 
-    npm run dev
+    🔍 Barra de búsqueda de contactos
 
-    Abre tu navegador en http://localhost:5173
+    💾 Persistencia en localStorage
 
+    🎨 Mejoras en diseño responsivo y accesibilidad
 
 
