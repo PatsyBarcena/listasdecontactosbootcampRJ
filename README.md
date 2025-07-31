@@ -13,13 +13,13 @@ Una aplicación profesional de gestión de contactos desarrollada con **React.js
 - 🧩 TypeScript *(estructura del proyecto y configuraciones por defecto)*
 
 
+🔗 [Ver Deploy en Netlify](https://listasdecontactosbootcamprj.netlify.app/)  
+🔗 [Ver Deploy en Vercel](https://listadecontactosbootcamp-lskt.vercel.app/)
+
 ## 👀 Vista previa
 
 ![Vista previa 1](https://github.com/PatsyBarcena/listasdecontactosbootcampRJ/blob/main/listadecontactosvistaprevia1.png)
 ![Vista previa 2](https://github.com/PatsyBarcena/listasdecontactosbootcampRJ/blob/main/listadecontactosvistaprevia2.png)
-
-🔗 [Ver Deploy en Netlify](https://listasdecontactosbootcamprj.netlify.app/)  
-🔗 [Ver Deploy en Vercel](https://listadecontactosbootcamp-lskt.vercel.app/)
 
 ## ✨ Funcionalidades
 
