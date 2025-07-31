@@ -42,7 +42,25 @@ Opcionalmente, puedes integrar un **Modal de confirmación** antes de eliminar u
 
 Toda la lógica de estado y gestión de datos está implementada usando **Context API**, permitiendo compartir información entre componentes sin necesidad de prop drilling.
 
----
+## 🚀 Cómo iniciar el proyecto
 
-## 📁 Estructura del proyecto
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/PatsyBarcena/listasdecontactosbootcampRJ.git
+
+    Entra a la carpeta del proyecto:
+
+cd listasdecontactosbootcampRJ
+
+Instala las dependencias:
+
+npm install
+
+Inicia el servidor de desarrollo:
+
+    npm run dev
+
+    Abre tu navegador en http://localhost:5173
+
+
 
